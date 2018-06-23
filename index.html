@@ -1,1 +1,48 @@
-Hello, World!
+<HTML>
+
+<HEAD>
+    <TITLE>The Build-and-Test Manifesto</TITLE>
+</HEAD>
+
+<BODY>
+    <H1>The Problem</H2>
+
+        <OL>
+            <LI>
+                <P>0h0m - Get idea about an open source project</P>
+            </LI>
+            <LI>
+                <P>0h1m - git clone</P>
+            </LI>
+            <LI>
+                <P>0h2m - try to compile</P>
+            </LI>
+            <LI>
+                <P>1h0m - still can't compile. Give up.</P>
+            </LI>
+        </OL>
+
+        <H1>Vision</H1>
+
+        <B>Every source code repository should have a script in the root directory that does a build and run tests.</B>
+
+        <H1>Details</H2>
+
+            <UL>
+                <LI>It should not assume prerequisites and machine configuration.</LI>
+                <LI>It should work out of the box on a clean machine. Ideally, you can take a clean machine and run `git clone`
+                    followed by `build-and-test` and it will work.</LI>
+                <LI>Speed / incrementalism is not a goal. Developers that are in tune with the project will learn which steps
+                    are optional in which contexts, and how to optimize their work cycle, but newbies don't need that knowledge
+                    to use the script successfully.
+                </LI>
+                <LI>It should be succinct and readable by a human. It's fine to call out to another tool to do the heavy lifting.
+                </LI>
+                <LI>Since it's succinct, if you need to write it in two languages (e.g. .CMD and .SH), that won't be too painful.
+                </LI>
+                <LI>It should mimic the CI configuration, which should also be succinct.
+                </LI>
+                <LI>It should not have options to do other useful stuff beyond what CI validates.
+            </UL>
+
+</HTML>
