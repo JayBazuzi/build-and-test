@@ -36,7 +36,7 @@ Is it really OK to install, say, a specific version of Visual Studio in this scr
 ## Methods
 Place a script in the root of the repo named `build-and-test`.
 
-Write it in a language that your target audience will already have. PowerShell, CMD, Bash, and Python are good candidates. Since it's simple, it's OK to write it in two languages (e.g. PowerShell and Bash).
+Write it in a language that your target audience will already have. CMD + Bash are good candidates. Since it's simple, it's OK to dual-implement in two native script languages.
 
 Call out to other tools to do the heavy lifting. This script doesn't implement your build, it invokes your build. I human can then read this script to learn how to invoke your build, and then manually mimic it with variation for other needs.
 
