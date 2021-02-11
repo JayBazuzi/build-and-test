@@ -41,4 +41,4 @@ Write it in a language that your target audience will already have. PowerShell, 
 Call out to other tools to do the heavy lifting. This script doesn't implement your build, it invokes your build. I human can then read this script to learn how to invoke your build, and then manually mimic it with variation for other needs.
 
 ## Collaborators
-Consider a script that will configure a clean machine to be a usable development environment for this project. See https://github.com/JayBazuzi/machine-setup
+Consider a script that will configure a clean machine to be a usable development environment for this project. See [https://github.com/JayBazuzi/machine-setup].
