@@ -42,3 +42,5 @@ Call out to other tools to do the heavy lifting. This script doesn't implement y
 
 ## Collaborators
 Consider a script that will configure a clean machine to be a usable development environment for this project. See [https://github.com/JayBazuzi/machine-setup].
+
+    <a href="https://github.com/JayBazuzi/build-and-test"><img style="position: absolute; top: 0; right: 0; border: 0;"	src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png" alt="Fork me on GitHub"></a>	
