@@ -19,7 +19,7 @@ Today, if I try to clone and build a repo and it doesn't work, and the how-to-bu
  | Fast                                                         |
  | Flexible - "build but don't run tests" or "build for 32-bit" |
 
-That is, while there is value in the items on the right, we value the items on the left more.
+That is, while there is value in the items in the lower table, we value the items in the upper more.
 
 ## Measures
 A newbie can clone your repo, run build-and-test, and see a successful result.
