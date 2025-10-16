@@ -3,9 +3,8 @@
 <a href="https://github.com/JayBazuzi/build-and-test"><img style="position: absolute; top: 0; right: 0; border: 0;"	src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png" alt="Fork me on GitHub"></a>	
 
 ## Vision
-The first time I clone a repository, it should be trivially obvious how to build it and run tests.
 
-Today, if I try to clone and build a repo and it doesn't work, and the how-to-build instructions are confusing / incorrect / incomplete, I'm likely to give up on the repo.
+For every source repo in the world, I should be able to clonse it onto a clean machine, run the "build and test" script at the root, and it should just work.
 
 ## Values
 
