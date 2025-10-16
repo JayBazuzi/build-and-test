@@ -1,6 +1,6 @@
 # The Build-and-Test manifesto
 
-<a href="https://github.com/JayBazuzi/build-and-test"><img loading="lazy" decoding="async" width="149" height="149" src="https://github.blog/wp-content/uploads/2008/12/forkme_right_darkblue_121621.png" class="attachment-full size-full" alt="Fork me on GitHub"></a>
+<a href="https://github.com/JayBazuzi/build-and-test"><img loading="lazy" decoding="async" width="149" height="149" src="https://github.blog/wp-content/uploads/2008/12/forkme_right_darkblue_121621.png" class="attachment-full size-full" alt="Fork me on GitHub" style="position: absolute; top: 0; right: 0; border: 0;"></a>
 
 
 ## Vision
