@@ -5,7 +5,7 @@
 
 ## Vision
 
-For every source repo in the world, I should be able to clonse it onto a clean machine, run the "build and test" script at the root, and it should just work.
+For every source repo in the world, I should be able to clone it onto a clean machine, run the "build and test" script at the root, and it should just work.
 
 ## Values
 
